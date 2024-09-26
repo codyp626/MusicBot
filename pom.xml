@@ -47,7 +47,7 @@
         <dependency>
             <groupId>com.jagrosh</groupId>
             <artifactId>jda-utilities-command</artifactId>
-            <version>3.0.5</version>
+            <version>4.3.0_313</version>
             <scope>compile</scope>
             <!-- <type>pom</type> -->
         </dependency>
